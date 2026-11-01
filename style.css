@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.header__text {
+    padding: 48px 776px 120px;
+    font-weight: 700;
+    font-size: 48;
+    font-family: "Inter";
+}
+.image__image {
+    padding-left: 700px;
+}
