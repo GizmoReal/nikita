@@ -11,3 +11,8 @@
 .image__image {
     padding-left: 700px;
 }
+.asol__image {
+    max-width: 72px;
+    padding-top: 10px;
+    transform: scale(1.5);
+}
